@@ -1,0 +1,5 @@
+/Users/a.tandyo/Projects/dicesRoll/dicesRoll/bin/Debug/dicesRoll.exe
+/Users/a.tandyo/Projects/dicesRoll/dicesRoll/bin/Debug/dicesRoll.pdb
+/Users/a.tandyo/Projects/dicesRoll/dicesRoll/obj/x86/Debug/dicesRoll.csproj.CoreCompileInputs.cache
+/Users/a.tandyo/Projects/dicesRoll/dicesRoll/obj/x86/Debug/dicesRoll.exe
+/Users/a.tandyo/Projects/dicesRoll/dicesRoll/obj/x86/Debug/dicesRoll.pdb

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{668BE4F2-7615-45D9-B2D1-0FFB6DB1DAAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="dicesRoll/actualDiceRoll.cs">
+    <Files>
+      <File FileName="dicesRoll/actualDiceRoll.cs" Line="12" Column="41" />
+      <File FileName="dicesRoll/d4.cs" Line="9" Column="37" />
+      <File FileName="dicesRoll/d6.cs" Line="9" Column="37" />
+      <File FileName="dicesRoll/d8.cs" Line="9" Column="37" />
+      <File FileName="dicesRoll/d12.cs" Line="9" Column="38" />
+      <File FileName="dicesRoll/d20.cs" Line="9" Column="38" />
+      <File FileName="dicesRoll/d100.cs" Line="9" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.dicesRoll PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
